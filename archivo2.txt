@@ -1,0 +1,3 @@
+alfil
+numero: 2
+moviemiento: diagonal
